@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-import { DISCORD_TOKEN, TWITCH_CHANNEL_ID } from './constants'
+import { NzUyMTczNzc4NDM5NzY2MTY2.X1Tyaw._hanvDqadhOnoFTv_BrPuajb2HI
+, TWITCH_CHANNEL_ID } from './constants'
 import { containsUrl, isTwitchUrl } from './helpers'
 
 
@@ -47,4 +48,5 @@ client.on('message', msg => {
 
 
 
-client.login(DISCORD_TOKEN);
+client.login(NzUyMTczNzc4NDM5NzY2MTY2.X1Tyaw._hanvDqadhOnoFTv_BrPuajb2HI
+);
